@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677560868587",
+    "project_id": "booking-fe95a",
+    "storage_bucket": "booking-fe95a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677560868587:android:0e55ef34e91d2b156ea8ae",
+        "android_client_info": {
+          "package_name": "com.michael.booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677560868587-kmvj23p2c6pt6q6qmojh3ru2e9l4r140.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTH08-h4KWe0A2qFf7qHf3gRPU5hAdDas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677560868587-kmvj23p2c6pt6q6qmojh3ru2e9l4r140.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
